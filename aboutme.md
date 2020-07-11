@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: Présentation
+title: Présentation
 subtitle: Franck Nguyen
 ---
 
