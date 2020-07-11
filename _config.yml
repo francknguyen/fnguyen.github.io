@@ -12,7 +12,7 @@ author: Franck Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  A propos: "aboutme"
+  #A propos: "aboutme"
   Mathématiques:
     - Cours: "" #mettre lien
     - TD: "" #mettre lien
