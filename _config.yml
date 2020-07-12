@@ -18,7 +18,7 @@ navbar-links:
     - TD: "" #mettre lien
   Informatique: 
     - Cours: "" 
-    - TP: "infotp.markdown"
+    - TP: "infotp.md"
     - Concours PT: "oraux_banque_pt.html"
   
 
