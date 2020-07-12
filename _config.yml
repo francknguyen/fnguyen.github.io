@@ -14,12 +14,12 @@ author: Franck Nguyen
 navbar-links:
   #A propos: "aboutme"
   Mathématiques:
-    - Cours: "mathcours.md" 
-    - TD: "mathtd.md" 
+    - Cours: "mathcours" 
+    - TD: "mathtd" 
   Informatique: 
-    - Cours: "infocours.md" 
-    - TP: "infotp.md"
-    - Concours PT: "oraux_banque_pt.html"
+    - Cours: "infocours" 
+    - TP: "infotp"
+    - Concours PT: "oraux_banque_pt"
   
 
 # --- Logo --- #
