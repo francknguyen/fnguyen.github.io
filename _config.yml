@@ -16,7 +16,10 @@ navbar-links:
   Mathématiques:
     - Cours: "" #mettre lien
     - TD: "" #mettre lien
-  Informatique: "informatique.html" #mettre lien
+  Informatique: 
+    - Cours: "" 
+    - TP: ""
+    - Concours PT: ""
   
 
 # --- Logo --- #
