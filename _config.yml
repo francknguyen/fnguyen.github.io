@@ -19,7 +19,7 @@ navbar-links:
   Informatique: 
     - Cours: "" 
     - TP: "info_TP.markdown"
-    - Concours PT: ""
+    - Concours PT: "oraux_banque_PT.html"
   
 
 # --- Logo --- #
