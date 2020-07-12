@@ -18,7 +18,7 @@ navbar-links:
     - TD: "" #mettre lien
   Informatique: 
     - Cours: "" 
-    - TP: ""
+    - TP: "info_TP.markdown"
     - Concours PT: ""
   
 
