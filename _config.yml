@@ -16,7 +16,7 @@ navbar-links:
   Mathématiques:
     - Cours: "" #mettre lien
     - TD: "" #mettre lien
-  Informatique: "oraux_banque_pt.html" #mettre lien
+  Informatique: "informatique.html" #mettre lien
   
 
 # --- Logo --- #
