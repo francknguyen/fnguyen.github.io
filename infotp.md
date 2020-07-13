@@ -5,7 +5,7 @@ subtitle: Franck Nguyen
 ---
 
 # Sujet de TP
-[TP01 - Découverte de Python](oraux_banque_pt.html)  
+[TP01 - Découverte de Python](/info/pdf/TP01)  
 [TP02 - Découverte de Python](oraux_banque_pt.html)  
 [TP03 - Découverte de Python](oraux_banque_pt.html)  
 [TP04 - Découverte de Python](oraux_banque_pt.html)  
