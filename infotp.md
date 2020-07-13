@@ -4,17 +4,17 @@ title: TP d'info
 subtitle: Franck Nguyen
 ---
 
-# Sujet de TP
-[TP01 - Découverte de Python](/info/pdf/TP1.pdf)  
-[TP02 - Découverte de Python](oraux_banque_pt.html)  
-[TP03 - Découverte de Python](oraux_banque_pt.html)  
-[TP04 - Découverte de Python](oraux_banque_pt.html)  
-[TP05 - Découverte de Python](oraux_banque_pt.html)  
-[TP06 - Découverte de Python](oraux_banque_pt.html)  
-[TP07 - Découverte de Python](oraux_banque_pt.html)  
-[TP08 - Découverte de Python](oraux_banque_pt.html)  
-[TP09 - Découverte de Python](oraux_banque_pt.html)  
-[TP10 - Découverte de Python](oraux_banque_pt.html)  
-[TP11 - Découverte de Python](oraux_banque_pt.html)  
-[TP12 - Découverte de Python](oraux_banque_pt.html)  
-[TP13 - Découverte de Python](oraux_banque_pt.html)
+# 2019 - 2020
+
+| TP1 - Découverte de Python | [Sujet](/info/pdf/TP1.pdf) | Corrigé |
+| TP2 - Listes et fonctions | [Sujet](/info/pdf/TP2.pdf) | Corrigé |
+| TP3 - Structures conditionnelles et itératives (1/2) | [Sujet](/info/pdf/TP3.pdf) | Corrigé |
+| TP4 - Structures conditionnelles et itératives (2/2) | [Sujet](/info/pdf/TP4.pdf) | Corrigé |
+| TP5 - Identification d'un SCLI | [Sujet](/info/pdf/TP5.pdf) | Corrigé |
+| TP6 - Fichiers | [Sujet](/info/pdf/TP6.pdf) | Corrigé |
+| TP7 - Capsuleuse | [Sujet](/info/pdf/TP7.pdf) | Corrigé |
+| TP8 - Méthode d'Euler | [Sujet](/info/pdf/TP7.pdf) | Corrigé |
+| TP9 - Pendule | [Sujet](/info/pdf/TP7.pdf) | Corrigé |
+| TP10 - Recherche de zéros d'une fonction | [Sujet](/info/pdf/TP7.pdf) | Corrigé |
+| TP11 - Traitement de l'image | [Sujet](/info/pdf/TP11.pdf) | Corrigé |
+| TP12 - Algorithme de Gauss-Jordan | [Sujet](/info/pdf/TP12.pdf) | Corrigé |
